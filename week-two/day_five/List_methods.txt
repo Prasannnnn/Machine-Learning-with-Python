@@ -1,0 +1,11 @@
+append() add an elements at the end of the list
+clear() Removes all elements from the list
+copy()  returns a copy of the lists
+count() returns the number of elements with specified values
+extend() add the elements of list to the end of the current list
+index() return the index of the first element with the specified values
+insert() add an element at the specified position
+pop() removes the element at the specified item
+remove() removes the item with the specified value
+reverse() reverse the order of the lists
+sort() sort the list
