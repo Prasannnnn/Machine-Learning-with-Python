@@ -1,7 +1,42 @@
-import tkinter as tk
+"""
+Operators:
+Arithmetic Operators +-*/ // % **
+Assignment Operators 
+a = 5 
++=
+-=
+/=
+*=
+//=
+%=
+**=
+&=
+|=
+^=
+>>=
+<<=
+:=
 
-root = tk.Tk()
+Comparison Operators
+== equal
+!= Not Equal
+> Greater 
+< Lesser
+>=Greater than equal to
+<=Lesser than equal to 
 
-root.title("main")
+Logical Operators
 
-root.mainloop()
+and 
+or 
+not
+
+Identity Operators
+is 
+isnot
+
+Membership Operator
+in 
+not in
+
+"""
